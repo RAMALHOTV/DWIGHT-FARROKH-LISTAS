@@ -1,1 +1,44 @@
-thumbnail thumbnail [COLOR white][B]---------DWIGHT FARROKH LISTAS GRATIS---------[/B][/COLOR] https://i.imgur.com/QXwjJNI.png https://0.0.0.0:0.0.0 https://i.imgur.com/56oPD7C.jpg DWIGHT FARROKH LISTAS [COLOR gray][B]TV SERVIDOR 1[/B][/COLOR] https://i.imgur.com/9k5g7XC.png https://tvlistaadonn.blogspot.com/2021/01/servidor-1.html https://i.imgur.com/56oPD7C.jpg DWIGHT FARROKH LISTAS [COLOR gray][B]TV SERVIDOR 2[/B][/COLOR] https://i.imgur.com/9k5g7XC.png https://tvlistaadonn.blogspot.com/2021/01/extm3uextinf-1-tvg-idae-tvg-namea-hd.html https://i.imgur.com/56oPD7C.jpg DWIGHT FARROKH LISTAS [COLOR gray][B]TV SERVIDOR 3[/B][/COLOR] https://i.imgur.com/9k5g7XC.png http://listaiptvbrasil.com/tt.txt https://i.imgur.com/56oPD7C.jpg DWIGHT FARROKH LISTAS [COLOR gray][B]SERVIDOR RADIOS[/B][/COLOR] https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Poste_Radio.svg/1200px-Poste_Radio.svg.png https://pastebin.com/raw/VhPEbFrA https://i.imgur.com/56oPD7C.jpg DWIGHT FARROKH LISTAS [COLOR gray][B]SERVIDOR FILMES[/B][/COLOR] https://i.imgur.com/9qEj6bJ.png https://tvlistaadonn.blogspot.com/2021/01/movie.html https://canalcienciascriminais.com.br/wp-content/uploads/2019/05/cinema.png DWIGHT FARROKH LISTAS [COLOR gray][B]SERVIDOR SÉRIES[/B][/COLOR] https://i.imgur.com/9qEj6bJ.png https://tvlistaadonn.blogspot.com/2021/02/series.html https://canalcienciascriminais.com.br/wp-content/uploads/2019/05/cinema.png DWIGHT FARROKH LISTAS [COLOR gray][B]SERVIDOR FILMES TORRENT[/B][/COLOR] https://i.imgur.com/9qEj6bJ.png https://tvlistaadonn.blogspot.com/2021/02/torrent.html https://canalcienciascriminais.com.br/wp-content/uploads/2019/05/cinema.png PARA FUNCIONAR PRECISA INSTALAR O PLUGIN ELEMENTUM BURST
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>list</layoutype>
+ 
+ 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-01[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
+<externallink>https://tvlistaadonn.blogspot.com/2021/01/servidor-1.html
+</externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ 
+<channels>
+<channel>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-02[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
+<externallink>https://tvlistaadonn.blogspot.com/2021/01/extm3uextinf-1-tvg-idae-tvg-namea-hd.html</externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-03[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>https://pbs.twimg.com/profile_images/2581647529/qvmz7k3lmy6e7ba65kmk_400x400.png</thumbnail>
+<externallink>http://listaiptvbrasil.com/tt.txt </externallink>
+<fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
+<info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
