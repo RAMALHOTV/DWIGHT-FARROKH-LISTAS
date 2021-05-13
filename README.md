@@ -21,10 +21,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
  
 <channels>
 <channel>
-<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-PlutoTVBR[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
-<thumbnail>https://pbs.twimg.com/profile_images/1324476546791448576/4wT1c-R1.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/canais-pluto-tv/main/README.md</externallink>
-<fanart>https://pbs.twimg.com/profile_images/1324476546791448576/4wT1c-R1.jpg</fanart>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-TESTE[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<thumbnail>https://img2.gratispng.com/20180615/zkc/kisspng-iptv-m3u-set-top-box-internet-receiver-ip-tv-5b246c2fbbed30.1856658115291136477698.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/lista-4/main/README.md</externallink>
+<fanart>https://apkmodhacker.com/wp-content/uploads/2015/09/sd93d9.jpg</fanart>
 <info>[COLOR yellow]|[/COLOR]- Uma Grande Variedade de Canais para você assistir! -[COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels>
