@@ -24,7 +24,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-vip01COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-vip01[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
 <thumbnail>https://www.wdkx.com/wp-content/uploads/2020/07/image.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/F4MTSTER03/main/README.md</externallink>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
@@ -35,7 +35,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
-<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-vip02COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
+<name>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white]|[/COLOR] [COLOR mediumblue]CANAIS[/COLOR] [COLOR green][B]R[/B][/COLOR][COLORyellow][B][/B][/COLOR]TV [COLOR yellow]|[/COLOR] [COLOR white]SERVIDOR-vip02[/COLOR] [COLOR yellow]|[/COLOR][COLOR lime][B] ON [/B][/COLOR]</name>
 <thumbnail>https://www.wdkx.com/wp-content/uploads/2020/07/image.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/teste/main/README.md</externallink>
 <fanart>https://boainformacao.com.br/wp-content/uploads/2019/04/tv.png</fanart>
