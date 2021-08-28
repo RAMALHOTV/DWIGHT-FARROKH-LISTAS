@@ -39,7 +39,7 @@
 <channel>
 <name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white]TV ONLINE OP4[/COLOR] [COLOR deeppink]|[/COLOR]</name>
 <thumbnail>https://braziltv.yolasite.com/resources/logonew.png</thumbnail>
-<externallink>https://pastebin.com/raw/VVgbicYn</externallink>
+<externallink>https://pastebr.xyz/raw/y2cMpCZZkA</externallink>
 <fanart>https://i.ytimg.com/vi/bAwb690SENg/maxresdefault.jpg</fanart>
 <info>[COLOR deeppink]|[/COLOR]- SKY GRATIS -[COLOR deeppink]|[/COLOR]</info>
 </channel>
@@ -59,16 +59,6 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR darkorange]|||[/COLOR] [COLOR white] LISTA DE CANAIS TESTES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://braziltv.yolasite.com/resources/logonew.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/CANAIS-KODI19/main/README.md</externallink>
-<fanart>https://i.ytimg.com/vi/bAwb690SENg/maxresdefault.jpg</fanart>
-<info>[COLOR deeppink]|[/COLOR]- SKY GRATIS -[COLOR deeppink]|[/COLOR]</info>
-</channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
